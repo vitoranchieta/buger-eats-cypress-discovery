@@ -1,0 +1,51 @@
+
+{
+    "signup": {
+    "name": "Vitor Fagundes", 
+    "cpf": "00000001234",
+    "email": "vitorfagundes.7@gmail.com",
+    "whatsapp": "48991288528",
+    "address": {
+        "postalcode": 90251903,
+        "street": "Avenida Padre Leopoldo Brentano",
+        "number": 110,
+        "details": "B",
+        "district": "Farrapos",
+        "city_state": "Porto Alegre/RS"
+        },
+    "metodo_entrega": "Moto",
+    "cnh": "cnh-digital.jpg"  
+    },
+    "cpf_inv":{
+            "name": "João Lucas", 
+            "cpf": "X00000012AA",
+            "email": "joaolucas@gmail.com",
+            "whatsapp": "48991288528",
+            "address": {
+                "postalcode": 90251903,
+                "street": "Avenida Padre Leopoldo Brentano",
+                "number": 110,
+                "details": "B",
+                "district": "Farrapos",
+                "city_state": "Porto Alegre/RS"
+                },
+            "metodo_entrega": "Moto",
+            "cnh": "cnh-digital.jpg"  
+    },
+    "email_inv":{
+        "name": "João Lucas", 
+        "cpf": "00000001234",
+        "email": "joao.com.br",
+        "whatsapp": "48991288528",
+        "address": {
+            "postalcode": 90251903,
+            "street": "Avenida Padre Leopoldo Brentano",
+            "number": 110,
+            "details": "B",
+            "district": "Farrapos",
+            "city_state": "Porto Alegre/RS"
+            },
+        "metodo_entrega": "Moto",
+        "cnh": "cnh-digital.jpg"  
+}
+}
